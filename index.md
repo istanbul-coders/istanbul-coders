@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 27 Ekim <br/> Açık Oturum</a>
+      <a href="next-meeting">Sonraki Buluşma : 3 Kasım <br/> Yakari InMemory Cache Distributor</a>
     </div>
   </div>
 </div>
