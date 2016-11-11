@@ -21,7 +21,7 @@ layout: home
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="https://groups.google.com/forum/#!forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
+    <a href="https://talk.istanbulcoders.org" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
 
   <div class="ribbon-wrapper-green">
@@ -141,8 +141,8 @@ layout: home
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Mail listemize katılın!</h3>
-        <a href="https://groups.google.com/forum/#!forum/istanbul-coders">groups.google.com/forum/#!forum/istanbul-coders</a>
+        <h3>Forumumuza katılın!</h3>
+        <a href="https://talk.istanbulcoders.org">https://talk.istanbulcoders.org</a>
       </div>
     </div>
   </div>
@@ -155,8 +155,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <ul class="list-inline">
-         <li><a href="http://meetup.com/Istanbul-Hackers/"><i class="icon-calendar icon-2x"></i></a></li>
-          <li><a href="https://www.facebook.com/groups/istanbul.hackers/"><i class="icon-facebook icon-2x"></i></a></li>
+          <li><a href="http://meetup.com/Istanbul-Hackers/"><i class="icon-calendar icon-2x"></i></a></li>
           <li><a href="https://twitter.com/istanbulcoders"><i class="icon-twitter icon-2x"></i></a></li>
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
