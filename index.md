@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 17 Kasım <br/> Spring Boot ile Microservis uygulamalari</a>
+      <a href="next-meeting">Sonraki Buluşma : 24 Kasım <br/> HTTP ile İlgili Bilmemiz Gerekenler</a>
     </div>
   </div>
 </div>
