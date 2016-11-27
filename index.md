@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 24 Kasım <br/> HTTP ile İlgili Bilmemiz Gerekenler</a>
+      <a href="next-meeting">Sonraki Buluşma : 1 Aralik <br/> .Net on Docker</a>
     </div>
   </div>
 </div>
