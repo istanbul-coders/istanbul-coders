@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 1 Aralik <br/> .Net on Docker</a>
+      <a href="next-meeting">Sonraki Buluşma : 8 Aralik <br/> Service Discovery with Consul</a>
     </div>
   </div>
 </div>

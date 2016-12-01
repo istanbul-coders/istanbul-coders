@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/12/01/dotnet-on-docker.md
+redirect_url: meetings/2016/12/08/consul
 ---
