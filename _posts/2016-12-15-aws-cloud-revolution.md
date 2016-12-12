@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 08 Dec 2016 19:30:00 +0200
+date: Thu, 15 Dec 2016 19:30:00 +0200
 speaker: Barış Bilen Vural
 speaker-homepage: www.yonetim.academy
 speaker-twitter:
@@ -14,11 +14,9 @@ title: Yeni Bir Devrim – AWS Bulut Bilişim
 
 Merhaba arkadaslar,
 
-Bu hafta Yönetim.Academy'den Barış Bilen Vural Amazon Web Servisleri ve bulut bilişimin getirdiği devrimden bahsedecek.
+Bu hafta Yönetim.Academy'den Barış Bilen Vural bizlerle olacak.
 
-Ajanda:
-
-Bu sunumun temel amacı Dünyadaki en büyük bulut bilişim sağlayıcısı olan Amazon Web Service (AWS) şirketinin sağladığı altyapıların bir bilgi teknolojileri çalışanın hayatını nasıl değiştirdiği anlamaktır. Artık hayatımızda geri dönülemez bir biçimde neler değişecek ve yeni normal “Bulut” bize neler getirecek kapsamlı bir şekilde değerlendirilecektir. 
+Bu haftaki sunumun temel amacı Dünyadaki en büyük bulut bilişim sağlayıcısı olan Amazon Web Service (AWS) şirketinin sağladığı altyapıların bir bilgi teknolojileri çalışanın hayatını nasıl değiştirdiği anlamaktır. Artık hayatımızda geri dönülemez bir biçimde neler değişecek ve yeni normal “Bulut” bize neler getirecek kapsamlı bir şekilde değerlendirilecektir. 
 
 Etkinlik B-401 nolu sinifta gerceklestirilecektir.
 
