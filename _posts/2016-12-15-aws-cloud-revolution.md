@@ -22,7 +22,7 @@ Etkinlik B-401 nolu sinifta gerceklestirilecektir.
 
 **Konu:**
 
-Barış Bilen Vural
+Yeni Bir Devrim – AWS Bulut Bilişim
 
 **Konuşmacı:**
 
