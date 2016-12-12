@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 8 Aralik <br/> Service Discovery with Consul</a>
+      <a href="next-meeting">Sonraki Buluşma : 15 Aralik <br/> Yeni Bir Devrim – AWS Bulut Bilişim</a>
     </div>
   </div>
 </div>
