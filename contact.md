@@ -9,10 +9,13 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 
 ### Aktif organizatorler
 
+* [Alper Kose](mailto:alperkose@gmail.com)
+* [Heval Berk Nevruz](mailto:hevalberknevruz@gmail.com)
+* [Emrah Bayraktaroglu](mailto:emrahb@gmail.com)
 * [Abdulkadir Yaman](mailto:abdulkadiryaman@gmail.com)
 * [Cengiz Can](mailto:cengizc@gmail.com)
- 
- 
+
+
 ### Grup Kuruculari / ex-organizatorler
 
 * [Isa Goksu](mailto:info@isagoksu.com)
@@ -21,4 +24,4 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 * [Can Yaman](mailto:can@yaman.me)
 
 
-[Mail listesi!](https://groups.google.com/forum/#!forum/istanbul-coders)
+[Konuşmaya Katılın!](https://talk.istanbulcoders.org)
