@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 29 Aralık <br/> Hands on Spring Boot </a>
+      <a href="next-meeting">Sonraki Buluşma : 5 Ocal <br/> Hands on Spring Boot </a>
     </div>
   </div>
 </div>

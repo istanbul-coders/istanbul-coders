@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2016/12/29/hands-on-spring-boot
+redirect_url: meetings/2017/01/05/hands-on-spring-boot
 ---
