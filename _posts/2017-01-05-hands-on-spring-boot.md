@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 29 Dec 2016 19:30:00 +0300
+date: Thu, 05 Jan 2017 19:30:00 +0200
 speaker: Erdem Günay
 speaker-homepage:
 speaker-twitter: gunayus
@@ -14,7 +14,9 @@ title: Hands on Spring Boot
 
 Merhaba arkadaslar,
 
-Bu hafta Erdem Günay bizlere bir Spring Boot atölyesi düzenleyecek
+Istanbul Coders'dan mutlu yıllar!
+
+Bu hafta Erdem Günay bizlere bol demolu, bol kodlu bir  Spring Boot sunumu yapacak
 
 Etkinlik B-401 nolu sinifta gerceklestirilecektir.
 
