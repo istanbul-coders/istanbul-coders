@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 05 Jan 2017 19:30:00 +0200
+date: Thu, 12 Jan 2017 19:30:00 +0200
 speaker: Gökhan Şengün
 speaker-homepage: http://www.gokhansengun.com
 speaker-twitter: gokhansengun
