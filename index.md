@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 12 Ocak <br/> Linux ile İlgili Bilmemiz Gerekenler </a>
+      <a href="next-meeting">Sonraki Buluşma : 19 Ocak <br/> Thinking Distributed: The Hazelcast Way </a>
     </div>
   </div>
 </div>

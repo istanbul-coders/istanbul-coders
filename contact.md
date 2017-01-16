@@ -14,6 +14,7 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 * [Emrah Bayraktaroglu](mailto:emrahb@gmail.com)
 * [Abdulkadir Yaman](mailto:abdulkadiryaman@gmail.com)
 * [Cengiz Can](mailto:cengizc@gmail.com)
+* [Ömer Faruk Almalı](mailto:omerfaruk.almali@gmail.com)
 
 
 ### Grup Kuruculari / ex-organizatorler
