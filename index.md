@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 26 Ocak <br/> Linux Hakkında Bilmemiz Gerekenler 2 </a>
+      <a href="next-meeting">Sonraki Buluşma : 2 Şubat <br/> Basics of Continuous Delivery</a>
     </div>
   </div>
 </div>
