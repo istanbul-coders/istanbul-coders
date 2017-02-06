@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 2 Şubat <br/> Basics of Continuous Delivery</a>
+      <a href="next-meeting">Sonraki Buluşma : 9 Şubat <br/> Spring Cloud Netflix</a>
     </div>
   </div>
 </div>
