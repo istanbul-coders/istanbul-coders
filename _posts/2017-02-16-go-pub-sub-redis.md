@@ -1,7 +1,7 @@
     ---
 layout: meeting
 category: meetings
-date: Thu, 09 Feb 2017 19:30:00 +0300
+date: Thu, 16 Feb 2017 19:30:00 +0300
 speaker: Mehmet Çetin
 speaker-homepage: https://medium.com/@manorie
 speaker-twitter: manorie_
