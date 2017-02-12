@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/02/09/spring-cloud-netflix
+redirect_url: meetings/2017/02/16/go-pub-sub-redis
 ---
