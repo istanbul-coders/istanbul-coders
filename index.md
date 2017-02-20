@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 16 Şubat <br/>Communicating Distributed Go Applications through Redis Pub/Sub Messaging Paradigm</a>
+      <a href="next-meeting">Sonraki Buluşma : 23 Şubat <br/>Asynchrounous Javascript</a>
     </div>
   </div>
 </div>
