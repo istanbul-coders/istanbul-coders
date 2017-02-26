@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 23 Şubat <br/>Asynchrounous Javascript</a>
+      <a href="next-meeting">Sonraki Buluşma : 2 Mark <br/>Functional Programming with Haskell</a>
     </div>
   </div>
 </div>

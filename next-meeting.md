@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/02/23/async-javascript
+redirect_url: meetings/2017/03/02/functional-programming-with-haskell
 ---
