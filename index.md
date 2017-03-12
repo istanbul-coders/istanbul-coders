@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 9 Mart <br/>Golang Temelleri</a>
+      <a href="next-meeting">Sonraki Buluşma : 16 Mart <br/>Cloud Foundry - A cloud native platform for your Spring Boot applications</a>
     </div>
   </div>
 </div>
