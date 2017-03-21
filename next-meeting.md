@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/03/16/pivotal-cloudfoundry
+redirect_url: meetings/2017/03/23/sade-kod
 ---
