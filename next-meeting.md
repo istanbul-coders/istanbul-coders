@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/03/23/sade-kod
+redirect_url: meetings/2017/03/30/cap-theorem
 ---

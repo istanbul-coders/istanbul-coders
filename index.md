@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 23 Mart <br/>Sade Kod</a>
+      <a href="next-meeting">Sonraki Buluşma : 23 Mart <br/>Distributed Computing in Microservices: CAP Theorem</a>
     </div>
   </div>
 </div>
