@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 06 April 2017 19:30:00 +0300
+date: Thu, 06 Apr 2017 19:30:00 +0300
 speaker: Zeldal Özdemir 
 speaker-homepage: https://www.linkedin.com/in/zeldalozdemir/ 
 speaker-twitter: OzdemirZeldal
