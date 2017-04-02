@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/03/30/cap-theorem
+redirect_url: meetings/2017/04/06/event-sourcing-cqrs
 ---

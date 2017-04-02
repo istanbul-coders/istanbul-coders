@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 30 Mart <br/>Distributed Computing in Microservices: CAP Theorem</a>
+      <a href="next-meeting">Sonraki Buluşma : 6 Nisan <br/>Event Sourcing and CQRS for Microservices: A Demo/a>
     </div>
   </div>
 </div>
