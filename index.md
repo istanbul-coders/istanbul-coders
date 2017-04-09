@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 6 Nisan <br/>Event Sourcing and CQRS for Microservices: A Demo/a>
+      <a href="next-meeting">Sonraki Buluşma : 13 Nisan <br/>Kaosu Yönetmek: Mikroservis Mimarisinde Test</a>
     </div>
   </div>
 </div>
