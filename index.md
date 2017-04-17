@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 13 Nisan <br/>Kaosu Yönetmek: Mikroservis Mimarisinde Test</a>
+      <a href="next-meeting">Sonraki Buluşma : 20 Nisan <br/>Clojure ve ClojureScript ile Uygulama Geliştirmek</a>
     </div>
   </div>
 </div>
