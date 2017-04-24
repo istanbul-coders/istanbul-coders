@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 20 Nisan <br/>Clojure ve ClojureScript ile Uygulama Geliştirmek</a>
+      <a href="next-meeting">Sonraki Buluşma : 27 Nisan <br/>Kotlin'e Örneklerle Giriş</a>
     </div>
   </div>
 </div>
