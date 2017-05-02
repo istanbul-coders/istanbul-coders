@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 27 Nisan <br/>Kotlin'e Örneklerle Giriş</a>
+      <a href="next-meeting">Sonraki Buluşma : 4 Mayıs <br/>Örnek bir React/Redux projesi nasıl olmalı?</a>
     </div>
   </div>
 </div>
