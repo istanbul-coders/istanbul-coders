@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 11 Mayıs <br/>UX Workshop: Yazılımcılar olarak deneyim tasarlıyoruz</a>
+      <a href="next-meeting">Sonraki Buluşma : 18 Mayıs <br/>Asp.Net Core, Angular4 ve TypeScript ile Workshop</a>
     </div>
   </div>
 </div>
