@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 18 Mayıs <br/>Asp.Net Core, Angular4 ve TypeScript ile Workshop</a>
+      <a href="next-meeting">Sonraki Buluşma : 25 Mayıs <br/>Regex 101</a>
     </div>
   </div>
 </div>
