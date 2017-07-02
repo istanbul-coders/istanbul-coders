@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 29 Haziran <br/>Gunumuz dunyasinda yenilenen siber guvenlik yaklasimlari</a>
+      <a href="next-meeting">Sonraki Buluşma : 6 Temmuz <br/>Laravel Core Concept ve Ekosistemi, Laravel 5 ile Workshop</a>
     </div>
   </div>
 </div>
