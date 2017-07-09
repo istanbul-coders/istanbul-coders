@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/07/03/laravel
+redirect_url: meetings/2017/07/13/docker-swarm
 ---
