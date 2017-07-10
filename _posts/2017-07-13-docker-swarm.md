@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 13 Jul 2017 19:30:00 +0300
+date: Thu, 13 July 2017 19:30:00 +0300
 speaker: Gokhan Sengun
 speaker-homepage:
 speaker-twitter: gokhansengun
