@@ -3,6 +3,10 @@
 # Check https://circleci.com/docs/2.0/language-go/ for more details
 version: 2
 jobs:
+    general:
+        branches:
+            only:
+                - gh-pages
     build:
         docker:
             - image: circleci/golang:1.8
