@@ -1,0 +1,35 @@
+# Golang CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-go/ for more details
+version: 2
+jobs:
+    build:
+        docker:
+            - image: circleci/golang:1.8
+        working_directory: /go/src/github.com/istanbul-coders/istanbul-coders
+        steps:
+            - checkout
+            - run:
+                name: Get monsterghost
+                command: go get github.com/istanbul-coders/monsterghost
+            - run:
+                name: Install pandoc
+                command: apt-get update && apt-get install -y pandoc
+            - run:
+                name: Find latest event
+                command: |
+                    cat _posts/`ls _posts | sort | tail -1` > event.md
+                    cat event.md
+            - run:
+                name: Parse latest event details
+                command: |
+                    echo `grep date event.md | cut -d" " -f2-7` > eventdate.md
+                    echo `grep speaker event.md | cut -d" " -f2-5 |head -1` > speaker.md
+                    echo `grep speaker-twitter event.md | cut -d" " -f2-10 |head -1`  > speakertwitter.md
+                    echo `grep speaker-photo event.md | cut -d" " -f2-5 |head -1` > speakerphoto.md
+                    echo `grep venue event.md | cut -d" " -f2-20 |head -1` > venue.md
+                    echo `grep title event.md | cut -d" " -f2-30 |head -1`  > title.md
+                    cat event.md
+                    cat event.md| tail -n +12 > desc.md
+                    pandoc -f markdown desc.md > desc.html
+                    cat desc.html
