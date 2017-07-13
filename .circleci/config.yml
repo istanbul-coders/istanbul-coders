@@ -1,10 +1,4 @@
-# Golang CircleCI 2.0 configuration file
-#
-# Check https://circleci.com/docs/2.0/language-go/ for more details
 version: 2
-dependencies:
-  pre:
-    - sudo apt-get update; sudo apt-get install pandoc
 general:
     branches:
         only:
@@ -19,6 +13,9 @@ jobs:
             - run:
                 name: Get monsterghost
                 command: go get github.com/istanbul-coders/monsterghost
+            - run:
+                name: Install pandoc
+                command: sudo apt-get update && sudo apt-get install -y pandoc
             - run:
                 name: Find latest event
                 command: |
