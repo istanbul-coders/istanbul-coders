@@ -57,9 +57,10 @@ jobs:
                     echo $subject
                     monsterghost twitter -ckey ${ckey} -csecret ${csecret} -atoken ${atoken} -asecret ${asecret} -subject "$subject"
             - run:
-                name: E-Mail to group
+                name: E-Mail to group and camera people
                 command: |
                     body=`cat desc.md`
                     subject=`cat title.md`
                     subject=$subject" ( "`cat eventdate.md`" )"
-                    monsterghost gmail -to "${to}" -from "abdulkadiryaman@gmail.com" -subject "Test Email" -body "Test Email" -username "${username}" -password "${password}"
+                    monsterghost gmail -to "${group_email}" -from "${from}" -subject "${subject}" -body "${body}" -username "${username}" -password "${email_password}"
+                    monsterghost gmail -to "${camera_email}" -cc "${camera_cc_email}" -from "${from}" -subject "${subject}" -body "${body}" -username "${username}" -password "${email_password}"
