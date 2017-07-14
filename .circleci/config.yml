@@ -34,3 +34,32 @@ jobs:
                     cat event.md| tail -n +12 > desc.md
                     pandoc -f markdown desc.md > desc.html
                     cat desc.html
+            - run:
+                name: Post to meetup.com
+                command: |
+                    desc=`cat desc.html`
+                    name=`cat title.md`
+                    time=`cat eventdate.md`
+                    ./monsterghost meetup -desc "$desc" -apikey "${meetup_apikey}" -gid "${meetup_group_id}" -vid "${meetup_venue_id}" -name "$name" -rsvp_limit ${meetup_rsvp_limit} -time "$time"
+            - run:
+                name: Tweet
+                command: |
+                    eventdate=`cat eventdate.md`
+                    speaker=`cat speaker.md`
+                    speakertwitter=`cat speakertwitter.md`
+                    speakerphoto=`cat speakerphoto.md`
+                    venue=`cat venue.md`
+                    title=`cat title.md`
+                    desc=`cat desc.md`
+                    url=`cat eventurl.md`
+                    echo $url
+                    subject="$title ($eventdate) @$speakertwitter $url"
+                    echo $subject
+                    monsterghost twitter -ckey ${ckey} -csecret ${csecret} -atoken ${atoken} -asecret ${asecret} -subject "$subject"
+            - run:
+                name: E-Mail to group
+                command: |
+                    body=`cat desc.md`
+                    subject=`cat title.md`
+                    subject=$subject" ( "`cat eventdate.md`" )"
+                    monsterghost gmail -to "${to}" -from "abdulkadiryaman@gmail.com" -subject "Test Email" -body "Test Email" -username "${username}" -password "${password}"
