@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/07/20/actor-model
+redirect_url: meetings/2017/07/27/open-source-contribution
 ---
