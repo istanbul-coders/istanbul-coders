@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: cengizIO
 speaker-photo:
 venue: Bahcesehir Universitesi Besiktas Kampus
-title: Acik Kaynak Dunyasinda Yasamak, Yararlanmak, Ogrenmek ve Katkida Bulunmak
+title: Acik Kaynak Dunyasinda Yasamak ve Katkida Bulunmak
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)
