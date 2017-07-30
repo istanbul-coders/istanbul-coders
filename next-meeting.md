@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/07/27/open-source-contribution
+redirect_url: meetings/2017/08/03/infrastructure-as-code-ansible
 ---

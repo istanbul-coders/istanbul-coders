@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 27 Temmuz <br/>Acik Kaynak Dunyasinda Yasamak, Yararlanmak, Ogrenmek ve Katkida Bulunmak</a>
+      <a href="next-meeting">Sonraki Buluşma : 3 Agustos <br/>Infrastructure as Code ve Ansible</a>
     </div>
   </div>
 </div>
