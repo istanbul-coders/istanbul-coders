@@ -22,16 +22,16 @@ Every piece of code works differently. All of them have different bottlenecks. N
 
 But what about Operating System problems?
 
-In this session, we will talk about Infrastructure as Code and how Ansible solves daily infrastructure problems  in that perspective.
+In this session, we will talk about Infrastructure as Code and how Ansible solves daily infrastructure problems in that perspective.
 
-** What is Infrastructure as Code?
-** What are provisioning tools?
+- What is Infrastructure as Code?
+- What are provisioning tools?
   - Comparison with ancient solutions like bash, python
   - Types
     - Pull based
     - Push based
     - Pull based vs push based
-** What is Ansible?
+- What is Ansible?
    - Is it necessary?
    - Comparison with other tools
    - Ansible related topics
@@ -39,9 +39,10 @@ In this session, we will talk about Infrastructure as Code and how Ansible solve
      - What is role
      - What is module
      - Best practices for Ansible
-** How to make it better
+- How to make it better
    - How to prepare reliable Infrastructure
      - Testing your infrastructure
+
 **Konuşmacı:**
 
 I’m an engineer who interest with Cloud and Linux Systems. I’m fond of building automation systems which make long stories short, I prefer Python & Ansible but I also love learning technologies.
