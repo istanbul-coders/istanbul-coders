@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 3 Agustos <br/>Infrastructure as Code ve Ansible</a>
+      <a href="next-meeting">Sonraki Buluşma : 10 Agustos <br/>Web API ve RESTful Services, Best Practices, API Gateways</a>
     </div>
   </div>
 </div>
