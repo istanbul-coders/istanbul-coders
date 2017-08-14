@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/08/10/web-api-best-practices
+redirect_url: meetings/2017/08/17/heroku-12-factor-app
 ---
