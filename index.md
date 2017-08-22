@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 17 Agustos <br/>The 12 Factor App</a>
+      <a href="next-meeting">Sonraki Buluşma : 24 Agustos <br/>CSP: Content Security Policy</a>
     </div>
   </div>
 </div>
