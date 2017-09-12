@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 24 Agustos <br/>CSP: Content Security Policy</a>
+      <a href="next-meeting">Sonraki Buluşma : 14 Eylul <br/>Acik Kaynak Dunyasinda Yasamak ve Katkida Bulunmak</a>
     </div>
   </div>
 </div>
