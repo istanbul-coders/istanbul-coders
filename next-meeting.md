@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/09/21/redux
+redirect_url: meetings/2017/10/12/git-workshop
 ---

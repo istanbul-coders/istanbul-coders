@@ -26,7 +26,7 @@ layout: home
 
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 21 Eylul <br/>Redux nedir, neden kulanmalıyız</a>
+      <a href="next-meeting">Sonraki Buluşma : 12 Ekim <br/>Git Atolyesi</a>
     </div>
   </div>
 </div>
