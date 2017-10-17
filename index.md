@@ -23,10 +23,9 @@ layout: home
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="https://talk.istanbulcoders.org" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 12 Ekim <br/>Git Atolyesi</a>
+      <a href="next-meeting">Sonraki Buluşma : 19 Ekim <br/>Symfony'e Giriş</a>
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/10/12/git-workshop
+redirect_url: meetings/2017/10/19/symfony-framework
 ---
