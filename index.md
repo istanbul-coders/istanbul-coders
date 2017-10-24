@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 19 Ekim <br/>Symfony'e Giriş</a>
+      <a href="next-meeting">Sonraki Buluşma : 26 Ekim <br/>Docker İle Konforlu Geliştirme Ortamı</a>
     </div>
   </div>
 </div>
