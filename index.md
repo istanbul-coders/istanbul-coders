@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 26 Ekim <br/>Docker İle Konforlu Geliştirme Ortamı</a>
+      <a href="next-meeting">Sonraki Buluşma : 2 Kasim <br/>Spring Boot ekosisteminde test</a>
     </div>
   </div>
 </div>
