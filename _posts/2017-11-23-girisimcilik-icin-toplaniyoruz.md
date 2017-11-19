@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 16 Nov 2017 19:30:00 +0300
+date: Thu, 23 Nov 2017 19:30:00 +0300
 speaker: Nazlı Eda Kıralı (Moda Cruz), Kadir Can Kırkoyun (Scode)
 speaker-homepage:
 speaker-twitter: kodluyoruz
