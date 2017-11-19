@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/11/16/react-native
+redirect_url: meetings/2017/11/13/girisimcilik-icin-toplaniyoruz
 ---

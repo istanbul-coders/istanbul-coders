@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 16 Kasim <br/>React Native 101</a>
+      <a href="next-meeting">Sonraki Buluşma : 23 Kasim <br/>Kodluyoruz.com ile girişimcilik için toplanıyoruz</a>
     </div>
   </div>
 </div>
