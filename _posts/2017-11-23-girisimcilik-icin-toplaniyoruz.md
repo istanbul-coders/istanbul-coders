@@ -30,8 +30,8 @@ __ONEMLI NOT__
 
 **Konuşmacılar**
 
-   * Nazli Eda Kirali: Head of Marketing, <a href='http://www.modacruz.com'>ModaCruz</a>
-   * Kadir Can Kirkoyun: Kurucu ortak, <a href='http://scodeapp.com/'>Scode</a>
+   * <a href='https://www.linkedin.com/in/nkirali/>'Nazli Eda Kirali</a>: Head of Marketing, <a href='http://www.modacruz.com'>ModaCruz</a>
+   * <a href='https://twitter.com/kkirkoyun'>Kadir Can Kirkoyun</a>: Kurucu ortak, <a href='http://scodeapp.com/'>Scode</a>
 
 **Yer:**
 
