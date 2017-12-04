@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 23 Kasim <br/>Kodluyoruz.com ile girişimcilik için toplanıyoruz</a>
+      <a href="next-meeting">Sonraki Buluşma : 7 Aralik <br/>Protobuf ve GRPC</a>
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/11/13/girisimcilik-icin-toplaniyoruz
+redirect_url: meetings/2017/12/07/protobuf-grpc
 ---
