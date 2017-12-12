@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 7 Aralik <br/>Protobuf ve GRPC</a>
+      <a href="next-meeting">Sonraki Buluşma : 14 Aralik <br/>Vue.js</a>
     </div>
   </div>
 </div>
