@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 14 Aralik <br/>Vue.js</a>
+      <a href="next-meeting">Sonraki Buluşma : 21 Aralik <br/>Spring Cloud Workshop Series \#4 - Spring Cloud Netflix</a>
     </div>
   </div>
 </div>
