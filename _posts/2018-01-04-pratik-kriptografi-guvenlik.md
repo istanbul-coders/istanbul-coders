@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: gokhansengun
 speaker-photo:
 venue: Bahceşehir Üniversitesi Beşiktas Kampüs
-title: Pratik Kriptografi and Güvenlik Konseptleri
+title: Pratik Kriptografi ve Güvenlik Konseptleri
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)
