@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2017/12/28/pratik-kriptografi-guvenlik
+redirect_url: meetings/2018/01/04/pratik-kriptografi-guvenlik
 ---
