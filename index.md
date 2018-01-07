@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 4 Ocak <br/>Pratik Kriptografi ve Guvenlik Konseptlerix</a>
+      <a href="next-meeting">Sonraki Buluşma : 11 Ocak <br/>React Redux Workshop</a>
     </div>
   </div>
 </div>
