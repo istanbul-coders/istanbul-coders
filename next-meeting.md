@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: meetings/2018/01/11/redux-workshop
+redirect_url: meetings/2018/02/01/kubernetes
 ---
