@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 1 Subat <br/>Kubernetes ile Container Orkestrasyonu</a>
+      <a href="next-meeting">Sonraki Buluşma : 22 Subat <br/>Spring MVC ile Ölçeklenebilir REST API Geliştirme</a>
     </div>
   </div>
 </div>
