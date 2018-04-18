@@ -21,11 +21,11 @@ layout: home
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="https://talk.istanbulcoders.org" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
+    <a href="https://groups.google.com/d/forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 22 Subat <br/>Spring MVC ile Ölçeklenebilir REST API Geliştirme</a>
+      <a href="next-meeting">Sonraki Buluşma : 26 Nisan<br/>Kubernetes | Production-Grade Container Orchestration</a>
     </div>
   </div>
 </div>
@@ -139,7 +139,7 @@ layout: home
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
         <h3>Forumumuza katılın!</h3>
-        <a href="https://talk.istanbulcoders.org">https://talk.istanbulcoders.org</a>
+        <a href="https://groups.google.com/d/forum/istanbul-coders">https://groups.google.com/d/forum/istanbul-coders</a>
       </div>
     </div>
   </div>
@@ -157,7 +157,7 @@ layout: home
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
-        <p>Copyright &copy; Istanbul Coders 2016</p>
+        <p>Copyright &copy; Istanbul Coders 2018</p>
       </div>
     </div>
   </div>
