@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 17 Mayis<br/>Chatbot + VoiceBot with NLP & Machine Learning Workshop</a>
+      <a href="next-meeting">Sonraki Buluşma : 09 Agustos<br/>Kubernetes, Istio</a>
     </div>
   </div>
 </div>
