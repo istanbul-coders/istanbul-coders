@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 09 Agustos<br/>Kubernetes, Istio</a>
+      <a href="next-meeting">Sonraki Buluşma : 16 Agustos<br/>Python ve Selenium ile Test Otomasyonu</a>
     </div>
   </div>
 </div>
