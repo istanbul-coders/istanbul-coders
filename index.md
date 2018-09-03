@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 16 Agustos<br/>Python ve Selenium ile Test Otomasyonu</a>
+      <a href="next-meeting">Sonraki Buluşma : 6 Eylül<br/>Infrastructure as Code with Terraform on AWS</a>
     </div>
   </div>
 </div>
