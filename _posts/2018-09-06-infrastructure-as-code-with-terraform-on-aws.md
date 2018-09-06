@@ -45,6 +45,9 @@ Terraform ile AWS üzerinde demo.
 
 Ali Can Kuştemur, 3 yıl Java ağırlıklı projeler de Software Developer olarak çalışmış ve son 1,5 sene içerisinde DevOps konularıyla da ilgilenmiş, şu anda da Netaş bünyesinde DevOps Engineer olarak çalışmaktadır.
 
+ Web: https://alicankustemur.github.io  
+ Medium: https://medium.com/@alicankustemur 
+ GitHub: https://github.com/alicankustemur
 
 **Yer:**
 
