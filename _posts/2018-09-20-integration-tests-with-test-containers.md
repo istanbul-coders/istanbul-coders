@@ -1,7 +1,7 @@
 ---
 layout: meeting
 category: meetings
-date: Thu, 13 Sep 2018 19:30:00 +0300
+date: Thu, 20 Sep 2018 19:30:00 +0300
 speaker: Enes Açıkoğlu
 speaker-homepage: https://github.com/enesacikoglu  
 speaker-twitter: Enes_Acikoglu
@@ -40,7 +40,7 @@ Test containers ile spring-boot integration test demo.
 **Konuşmacı**
 
 
-Enes Açıkoğlu, şu anda Trendyol bünyesinde yazılım geliştirici olarak çalışmakta.
+Enes Açıkoğlu, şu anda Trendyol bünyesinde yazılım geliştirici olarak çalışmaktadır.
 
 
 **Yer:**
