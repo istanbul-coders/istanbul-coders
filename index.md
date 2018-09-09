@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 6 Eylül<br/>Infrastructure as Code with Terraform on AWS</a>
+      <a href="next-meeting">Sonraki Buluşma : 20 Eylül<br/>Integration Tests With Test Containers</a>
     </div>
   </div>
 </div>
