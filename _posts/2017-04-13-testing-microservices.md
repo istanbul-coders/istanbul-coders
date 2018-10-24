@@ -7,7 +7,7 @@ speaker-homepage: https://www.github.com/emrah-b
 speaker-twitter: saparatus
 speaker-photo:
 venue: Bahceşehir Üniversitesi Beşiktas Kampüs
-title: Kaosu Yönetmek: Mikroservis Mimarisinde Test
+title: "Kaosu Yönetmek: Mikroservis Mimarisinde Test"
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)

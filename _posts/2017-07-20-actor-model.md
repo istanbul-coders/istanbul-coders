@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: akisemre
 speaker-photo:
 venue: Bahcesehir Universitesi Besiktas Kampus
-title: A different concurrency approach : Actor model
+title: "A different concurrency approach : Actor model"
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)

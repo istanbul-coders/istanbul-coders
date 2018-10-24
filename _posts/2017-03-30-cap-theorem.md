@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: brkbzn
 speaker-photo:
 venue: Bahceşehir Üniversitesi Beşiktas Kampüs
-title: Distributed Computing in Microservices: CAP Theorem
+title: "Distributed Computing in Microservices: CAP Theorem"
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)

@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter: saparatus
 speaker-photo:
 venue: DAM (http://www.damdayiz.com)
-title: UX Workshop: Yazılımcılar olarak deneyim tasarlıyoruz
+title: "UX Workshop: Yazılımcılar olarak deneyim tasarlıyoruz"
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)

@@ -7,7 +7,7 @@ speaker-homepage:
 speaker-twitter:
 speaker-photo:
 venue: Bahceşehir Üniversitesi Beşiktas Kampüs
-title: Thinking Distributed: The Hazelcast Way
+title: "Thinking Distributed: The Hazelcast Way"
 ---
 
 > Bize fikrinizi söyleyin. Sizi dinliyoruz: [https://talk.istanbulcoders.org/c/geri-bildirim](https://talk.istanbulcoders.org/c/geri-bildirim)
