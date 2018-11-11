@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-      <a href="next-meeting">Sonraki Buluşma : 8 Kasım<br/>X-Outpost: Turkey</a>
+    <a href="next-meeting">Sonraki Buluşma : 15 Kasım<br/>How to Decrease Testing Time With Slice Testing ?</a>
     </div>
   </div>
 </div>
