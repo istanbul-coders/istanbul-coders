@@ -25,7 +25,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-    <a href="next-meeting">Sonraki Buluşma : 15 Kasım<br/>How to Decrease Testing Time With Slice Testing ?</a>
+    <a href="next-meeting">Sonraki Buluşma : 22 Kasım<br/>Global Engineering</a>
     </div>
   </div>
 </div>
