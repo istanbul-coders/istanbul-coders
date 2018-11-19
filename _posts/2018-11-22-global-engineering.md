@@ -4,10 +4,11 @@ category: meetings
 date: Thu, 22 Nov 2018 19:15:00 +0300
 speaker: Mine Dedekoca & Tolgahan Albayrak
 speaker-homepage:
-speaker-twitter: @anlatmasamolmaz
+speaker-twitter: anlatmasamolmaz
 speaker-photo:
 venue: Bahceşehir Üniversitesi Beşiktas Kampüs
 title: Global Muhendislik ve Crossover
+---
 
 Merhaba Arkadaşlar,
 
