@@ -21,7 +21,7 @@ layout: home
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
-    <a href="https://groups.google.com/d/forum/istanbul-coders" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
+    <a href="https://discord.gg/PnC4XzY" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
@@ -138,8 +138,8 @@ layout: home
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Forumumuza katılın!</h3>
-        <a href="https://groups.google.com/d/forum/istanbul-coders">https://groups.google.com/d/forum/istanbul-coders</a>
+        <h3>Discord grubumuza katılın!</h3>
+        <a href="https://discord.gg/PnC4XzY">https://discord.gg/PnC4XzY</a>
       </div>
     </div>
   </div>
