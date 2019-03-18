@@ -157,7 +157,7 @@ layout: home
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
         <hr>
-        <p>Copyright &copy; Istanbul Coders 2018</p>
+        <p>Copyright &copy; Istanbul Coders 2019</p>
       </div>
     </div>
   </div>
