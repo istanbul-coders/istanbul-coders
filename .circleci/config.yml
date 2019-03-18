@@ -55,4 +55,4 @@ jobs:
                     echo $url
                     subject="$title ($eventdate) @$speakertwitter $url"
                     echo $subject
-                    monsterghost twitter -ckey ${ckey} -csecret ${csecret} -atoken ${atoken} -asecret ${asecret} -subject "$subject"
+                    #monsterghost twitter -ckey ${ckey} -csecret ${csecret} -atoken ${atoken} -asecret ${asecret} -subject "$subject"
