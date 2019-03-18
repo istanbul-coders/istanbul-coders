@@ -22,4 +22,4 @@ Herhangi bir soru veya öneriniz için lütfen aşağıdaki kişilerden herhangi
 * [Can Yaman](mailto:can@yaman.me)
 
 
-[Konuşmaya Katılın!](https://talk.istanbulcoders.org)
+[Konuşmaya Katılın!](https://discord.gg/PnC4XzY)
