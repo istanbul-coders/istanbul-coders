@@ -153,6 +153,7 @@ layout: home
       <div class="col-md-6 col-md-offset-3 text-center">
         <ul class="list-inline">
           <li><a href="http://meetup.com/Istanbul-Hackers/"><i class="icon-calendar icon-2x"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA"><i class="icon-youtube icon-2x"></i></a></li>
           <li><a href="https://twitter.com/istanbulcoders"><i class="icon-twitter icon-2x"></i></a></li>
           <li><a href="https://github.com/istanbul-coders"><i class="icon-github icon-2x"></i></a></li>
         </ul>
