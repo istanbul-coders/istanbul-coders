@@ -13,6 +13,9 @@ layout: home
     <li><a href="/sponsorship">Sponsorluk</a></li>
     <li><a href="/contact">İletişim</a></li>
   </ul>
+ 	<div class="rounded">
+    <iframe src="/assets/discord-iframe/index.html?serverID=540941194130096128&theme=dark&invite=true" scrolling="no" height="300px">       </iframe>
+	</div>
 </div>
 <!-- /Side Menu -->
 
