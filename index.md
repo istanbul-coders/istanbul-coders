@@ -13,11 +13,11 @@ layout: home
     <li><a href="/sponsorship">Sponsorluk</a></li>
     <li><a href="/contact">İletişim</a></li>
   </ul>
- 	<div class="rounded" style="margin-top:250px;">
-    		<iframe
-	   	 	src="/assets/discord-iframe/index.html?serverID=540941194130096128&theme=dark&invite=true" 
+ 	<div class="rounded" style="margin-top:220px;">
+    		
+	   	 <iframe src="/assets/discord-iframe/index.html?serverID=540941194130096128&theme=dark&invite=true" 
 	   	 	scrolling="no" 
-	  	 	height="400px" width="250px">
+	  	 	height="500px" width="250px">
 		</iframe>
 	</div>
 </div>
