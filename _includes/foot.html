@@ -28,9 +28,9 @@
   </script>
   <script>
    function resizeIframe(obj) {
-	    var sidebar = document.getElementById("sidebar-wrapper");
-	    var navbar = document.getElementsByClassName("sidebar-nav");
-      obj.style.height = sidebar.contentWindow.document.body.scrollHeight - navbar.contentWindow.document.body.scrollHeight;}
+	var sidebar = $("#sidebar-wrapper").height(); 
+	var navbar = $(".sidebar-nav").height();
+    $("#discord-iframe").height((sidebar-navbar-15));}
    </script>
   </body>
 
