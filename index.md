@@ -14,11 +14,7 @@ layout: home
     <li><a href="/contact">İletişim</a></li>
   </ul>
  	<div class="rounded" style="margin-top:220px;">
-    		
-	   	 <iframe src="/assets/discord-iframe/index.html?serverID=540941194130096128&theme=dark&invite=true" 
-	   	 	scrolling="no" 
-	  	 	height="500px" width="250px">
-		</iframe>
+	   <iframe id="discord-iframe" src="/assets/discord-iframe/index.html?serverID=540941194130096128&theme=dark&invite=true" scrolling="no" height="500px" width="250px" onload="resizeIframe(this);" ></iframe>
 	</div>
 </div>
 <!-- /Side Menu -->
