@@ -40,7 +40,8 @@ jobs:
                     desc=`cat desc.html`
                     name=`cat title.md`
                     time=`cat eventdate.md`
-                    monsterghost meetup -desc "$desc" -apikey "${meetup_apikey}" -gid "${meetup_group_id}" -vid "${meetup_venue_id}" -name "$name" -rsvp_limit ${meetup_rsvp_limit} -time "$time"
+                    echo "${meetup_apikey} ::: ${meetup_group_id} ::: ${meetup_venue_id}"
+                    #monsterghost meetup -desc "$desc" -apikey "${meetup_apikey}" -gid "${meetup_group_id}" -vid "${meetup_venue_id}" -name "$name" -rsvp_limit ${meetup_rsvp_limit} -time "$time"
             - run:
                 name: Tweet
                 command: |
