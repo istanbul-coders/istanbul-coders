@@ -26,7 +26,7 @@ layout: home
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
     <a href="https://discord.gg/PnC4XzY" target="_blank" class="btn btn-default btn-lg">Keşfet</a>
   </div>
-  <div class="ribbon-wrapper-green">
+  <div class="ribbon-wrapper-green" style="display: none;">
   	<div class="ribbon-green">
     <a href=""></a>
     </div>
