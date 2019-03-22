@@ -28,7 +28,7 @@ layout: home
   </div>
   <div class="ribbon-wrapper-green">
   	<div class="ribbon-green">
-    <a href="next-meeting">Sonraki Buluşma : 22 Kasım<br/>Global Engineering</a>
+    <a href=""></a>
     </div>
   </div>
 </div>
