@@ -47,6 +47,7 @@ $( document ).ready(function() {
 		var parsedate = (JSON.stringify(data["data"][0]["local_date"])).split("-");
 		parsedate[1]=parseInt(parsedate[1])-1;
 		parsedate[2]=parsedate[2].replace(/\"/g, '');
+		name=name.split('/')[0]
 		var title = "Sonraki Buluşma : "+parsedate[2]+" "+month[parsedate[1]]+"<br>"+name;
 		$('.ribbon-green a').attr("href", link);
 		$('.ribbon-green a').html(title);
