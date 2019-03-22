@@ -32,6 +32,38 @@
 	var navbar = $(".sidebar-nav").height();
     $("#discord-iframe").height((sidebar-navbar-15));}
    </script>
-  </body>
 
+<script>
+$( document ).ready(function() {
+  $.ajax({ 
+    type:"GET", 
+    url:"https://api.meetup.com/Istanbul-Hackers/events?&sign=true", 
+    success: function(data) { 
+	if (data["data"][0])
+	{
+		var name = JSON.stringify(data["data"][0]["name"]).replace(/\"/g, '');
+		var link = JSON.stringify(data["data"][0]["link"]).replace(/\"/g, '');
+		var month= ['Ocak', 'Şubat', 'Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
+		var parsedate = (JSON.stringify(data["data"][0]["local_date"])).split("-");
+		parsedate[1]=parseInt(parsedate[1])-1;
+		parsedate[2]=parsedate[2].replace(/\"/g, '');
+		var title = "Sonraki Buluşma : "+parsedate[2]+" "+month[parsedate[1]]+"<br>"+name;
+		$('.ribbon-green a').attr("href", link);
+		$('.ribbon-green a').html(title);
+		$('.ribbon-wrapper-green').show();
+	
+	}
+	else
+	{
+		$('.ribbon-wrapper-green').hide();
+	}},
+    dataType: 'jsonp',
+	error: function() {
+          $('.ribbon-wrapper-green').hide();
+    },
+  });
+  });
+</script>
+
+  </body>
 </html>
