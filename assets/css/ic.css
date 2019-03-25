@@ -221,8 +221,8 @@ div.footer {
 
 /* Home page ribbon */
 .ribbon-wrapper-green {
-  width: 360px;
-  height: 330px;
+  width: 240px;
+  height: 220px;
   overflow: hidden;
   position: absolute;
   bottom: 0;
@@ -239,9 +239,9 @@ div.footer {
   -o-transform:      rotate(-45deg);
   position: relative;
   padding: 7px 0;
-  left: -30px;
-  top: 160px;
-  width: 480px;
+  left: -15px;
+  top: 100px;
+  width: 320px;
   background-color: #BFDC7A;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#BFDC7A), to(#8EBF45));
   background-image: -webkit-linear-gradient(top, #BFDC7A, #8EBF45);
