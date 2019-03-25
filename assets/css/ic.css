@@ -253,6 +253,12 @@ div.footer {
   box-shadow:         0px 0px 3px rgba(0,0,0,0.3);
 }
 
+
+.ribbon-green a {
+  text-decoration: none;
+  color: #6a6340;
+}
+
 .marquee {
     animation: scroll-right-left 10s linear infinite;
 }
