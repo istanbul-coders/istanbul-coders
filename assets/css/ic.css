@@ -257,6 +257,7 @@ div.footer {
 .ribbon-green a {
   text-decoration: none;
   color: #6a6340;
+  white-space: nowrap;
 }
 
 .marquee {
