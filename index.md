@@ -22,7 +22,7 @@ layout: home
 <!-- Full Page Image Header Area -->
 
 <div class="header">
-	<div id="modalitem" style="visibility:hidden;"></div>
+	<div class="container"><div id="modalitem"></div></div>
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
