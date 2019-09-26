@@ -16,11 +16,11 @@ html, body {
 	z-index: 1000;
 	box-shadow: 0 1px 10px 0 rgba(0, 0, 0, .5);
 
-	-webkit-transform: scale(0.75);
-	-moz-transform: scale(0.75);
-	-ms-transform: scale(0.75);
-	-o-transform: scale(0.75);
-	transform: scale(0.75);
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	-o-transform: scale(0.8);
+	transform: scale(0.8);
 }
 
 .avgrund-overlay {
@@ -88,11 +88,11 @@ body.avgrund-active {
 }
 
 .avgrund-active .avgrund-popin.stack {
-	-webkit-transform: scale(0.75);
-	-moz-transform: scale(0.75);
-	-ms-transform: scale(0.75);
-	-o-transform: scale(0.75);
-	transform: scale(0.75);
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	-o-transform: scale(0.8);
+	transform: scale(0.8);
 }
 
 .avgrund-active .avgrund-blur {
