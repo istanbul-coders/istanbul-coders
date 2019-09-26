@@ -140,10 +140,12 @@ layout: home
 <div class="call-to-action">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-3 text-center">
-        <h3>Discord grubumuza katılın!</h3>
-        <a href="https://discord.gg/PnC4XzY">https://discord.gg/PnC4XzY</a>
-      </div>
+	<div class="col-md-6 col-md-offset-3 text-center">
+     		<a href="https://discord.gg/PnC4XzY">  
+			<img src="https://discordapp.com/assets/e7a3b51fdac2aa5ec71975d257d5c405.png" alt="" style="height:75px;">
+			<h3>Discord grubumuza katılın!</h3>
+		</a>
+      	</div>
     </div>
   </div>
 </div>
