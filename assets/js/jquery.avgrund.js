@@ -65,16 +65,19 @@
                     }
                 }
             }
-
+            
+            $(document).on("click","body", function () {
+                deactivate();
+             });
             function onDocumentClick (e) {
                 if (options.closeByDocument) {
                     if ($(e.target).is('.avgrund-blur,.avgrund-overlay, .avgrund-close')) {
                         e.preventDefault();
-                        deactivate();
+                        //deactivate();
                     }
                 } else if ($(e.target).is('.avgrund-close')) {
                         e.preventDefault();
-                        deactivate();
+                        //deactivate();
                 }
             }
 
