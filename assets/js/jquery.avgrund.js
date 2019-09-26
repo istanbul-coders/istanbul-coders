@@ -35,7 +35,8 @@
             onLoad: false,
             onUnload: false,
             onClosing: false,
-            template: '<p>This is test popin content!</p>'
+            template: '<p>This is test popin content!</p>',
+            add_overlay_class: 'body'
         };
 
         options = $.extend(defaults, options);
@@ -50,7 +51,7 @@
             body.addClass('avgrund-ready');
 
             if ($('.avgrund-overlay').length === 0) {
-                body.append('<div class="avgrund-overlay ' + options.overlayClass + '"></div>');
+                $(options.add_overlay_class).addClass('avgrund-blur');
             }
 
             if (options.onBlurContainer !== '') {
@@ -67,7 +68,7 @@
 
             function onDocumentClick (e) {
                 if (options.closeByDocument) {
-                    if ($(e.target).is('.avgrund-overlay, .avgrund-close')) {
+                    if ($(e.target).is('.avgrund-blur,.avgrund-overlay, .avgrund-close')) {
                         e.preventDefault();
                         deactivate();
                     }
