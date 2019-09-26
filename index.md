@@ -20,8 +20,9 @@ layout: home
 <!-- /Side Menu -->
 
 <!-- Full Page Image Header Area -->
-<div id="modalitem" style="visibility:hidden;">
+
 <div class="header">
+	<div id="modalitem" style="visibility:hidden;"></div>
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
     <h3>Mesleğinde daha iyiyi arayan bir grup insan</h3>
@@ -33,7 +34,7 @@ layout: home
     </div>
   </div>
 </div>
-</div>
+
 <!-- /Full Page Image Header Area -->
 
 <!-- Intro -->
