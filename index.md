@@ -20,6 +20,7 @@ layout: home
 <!-- /Side Menu -->
 
 <!-- Full Page Image Header Area -->
+<div id="modalitem" style="visibility:hidden;"></div>
 <div class="header">
   <div class="vert-text">
     <img id="logo" src="/assets/img/logo.png" alt="istanbul coders" />
