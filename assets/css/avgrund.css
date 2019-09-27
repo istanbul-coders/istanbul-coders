@@ -95,6 +95,22 @@ body.avgrund-active {
 	transform: scale(0.85);
 }
 
+@media (max-width: 1000px) {
+
+     .avgrund-active .avgrund-popin.stack {
+	visibility: visible;
+	opacity: 1;
+	filter: alpha(opacity=100);
+
+	-webkit-transform: scale(0.4);
+	-moz-transform:  scale(0.4);
+	-ms-transform:  scale(0.4);
+	-o-transform:  scale(0.4);
+	transform:  scale(0.4);
+}
+
+}
+
 .avgrund-active .avgrund-blur {
 	-webkit-filter: blur(1.5px);
 	-moz-filter: blur(1.5px);
