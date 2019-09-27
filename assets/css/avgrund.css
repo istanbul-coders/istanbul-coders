@@ -111,10 +111,18 @@ body.avgrund-active {
 	width: 100% !important;
 	margin-left: 0 !important;
 	margin-top:0 !important;
-	 
-
-
 }
+	
+	     .avgrund-active .avgrund-popin.stack .container  {
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	-ms-transform: scale(0.8);
+	-o-transform: scale(0.8);
+	transform: scale(0.8);
+}
+	
+	
+	
 body.avgrund-active {
 	-webkit-transform: scale(0.97);
 	-moz-transform: scale(0.97);
