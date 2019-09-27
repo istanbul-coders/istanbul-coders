@@ -102,11 +102,11 @@ body.avgrund-active {
 	opacity: 1;
 	filter: alpha(opacity=100);
 
-	-webkit-transform: scale(0.4);
-	-moz-transform:  scale(0.4);
-	-ms-transform:  scale(0.4);
-	-o-transform:  scale(0.4);
-	transform:  scale(0.4);
+	-webkit-transform: scale(0.2);
+	-moz-transform:  scale(0.2);
+	-ms-transform:  scale(0.2);
+	-o-transform:  scale(0.2);
+	transform:  scale(0.2);
 }
 
 }
