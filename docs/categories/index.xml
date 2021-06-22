@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on İstanbul Coders</title>
-    <link>https://istanbul-coders.github.io/istanbul-coders/categories/</link>
+    <link>https://www.istanbulcoders.org/categories/</link>
     <description>Recent content in Categories on İstanbul Coders</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>tr-TR</language><atom:link href="https://istanbul-coders.github.io/istanbul-coders/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>tr-TR</language><atom:link href="https://www.istanbulcoders.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on İstanbul Coders</title>
-    <link>https://istanbul-coders.github.io/istanbul-coders/contact/</link>
+    <link>https://www.istanbulcoders.org/contact/</link>
     <description>Recent content in Contact on İstanbul Coders</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-TR</language>
-    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate><atom:link href="https://istanbul-coders.github.io/istanbul-coders/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate><atom:link href="https://www.istanbulcoders.org/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
