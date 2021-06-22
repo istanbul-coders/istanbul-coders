@@ -1,3 +1,88 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "tr-TR"
+title = "İstanbul Coders"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+#[[menu.main]]
+#name    = "Anasayfa"
+#url     = "/"
+#weight  = 1
+#[[menu.main]]
+#name    = "Hakkımızda"
+#url     = "about"
+#weight  = 2
+#[[menu.main]]
+#name    = "Galeri"
+#url     = "gallery"
+#weight  = 3
+#[[menu.main]]
+#name    = "İletişim"
+#url     = "contact"
+#weight  = 4
+
+# Site Params
+[params]
+home = "Anasayfa"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "İstanbul Coders Anasayfa"
+author = "Abdulsamet İleri"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/bg.jpeg"
+heading = "Mesleğinde daha iyiyi arayan bir grup insan"
+description = ""
+# button
+btn     = true
+btnText = "Keşfet"
+btnURL  = "https://discord.gg/PnC4XzY"
+
+# flip text
+[[params.banner.flipText]]
+title   = "İstanbul"
+[[params.banner.flipText]]
+title   = "Coders"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "Hakkımızda"
+content = "Yazılım geliştirme hakkında tartışmak, bilgi paylaşmak ve çalışmak için bir araya gelen kodcularız. Eğer siz de bu alandaki tutkunuzu paylaşan, benzer kafada, bir şeyler öğrenebileceğiniz ve öğretebileceğiniz insanlar arıyorsanız buluşmalarımızdan birine bekleriz."
+image   = "images/about/about.jpeg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Discord Grubumuza Katılın!"
+content = ""
+btnText = "Katıl"
+btnURL  = "https://discord.gg/PnC4XzY"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = false
+title   = "Latest Works"
+subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-youtube"
+url = "https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "https://twitter.com/istanbulcoders"
+
+[[params.socialIcon]]
+icon = "ion-social-github"
+url = "https://github.com/istanbul-coders"

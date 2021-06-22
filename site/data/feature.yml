@@ -1,0 +1,18 @@
+enable  : true
+title   : HEDEFLERİMİZ
+subtitle: 
+item    :
+  - icon  : ion-speedometer
+    title : Sürekli Gelişim
+    description : >
+      Yazılımda ustalığınızdan tatminkar değil misiniz? Güzel! Biz de öyle. Sürekli çıtayı yükseltmenin yollarını arıyoruz ve bu yüzden buradayız.
+
+  - icon  : ion-network
+    title : Networking
+    description : >
+      İş yerinde TDD hakkında konuşurken kendinizi yalnız veya uzaylı gibi mi hissediyorsunuz? Burada, konuşmaktan keyif alacağınız birilerine rastlayacağınızı düşünüyoruz.
+
+  - icon  : ion-share
+    title : Paylaşmak
+    description : >
+      İster uzman olun, ister başlangıç seviyesinde, mutlaka başkalarına faydası olabilecek bir şeyi biliyorsunuz. Bilginizi paylaşın. İçinde yaşadığınız ekosisteme katkıda bulunmak önemlidir.
