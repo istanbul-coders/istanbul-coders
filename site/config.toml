@@ -1,4 +1,4 @@
-baseURL = "https://istanbul-coders.github.io"
+baseURL = "https://istanbul-coders.github.io/istanbul-coders/"
 languageCode = "tr-TR"
 title = "İstanbul Coders"
 theme = "timer-hugo"
